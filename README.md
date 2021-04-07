@@ -1,11 +1,16 @@
 # Deskmini H310 黑苹果 启动EFI OC 版
 
-OpenCore 版本: 0.6.8
+OpenCore 版本: `0.6.8`
 驱动基本完美, 无不良情况出现。
 <br>
 
+## Mac OS
 
-## Hardwares：
+MacOS Big Sur: `11.2.3`
+<br>
+
+
+## Hardwares
 
 - CPU: I9-9900T QS 版本
 - 内存：16Gx2 32G
